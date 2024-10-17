@@ -1,0 +1,47 @@
+#container{
+  margin: 10%;
+}
+
+.catalogo {
+  background-color: #38184c;
+  border-radius: 4px;
+  padding: 30px;
+  margin: 20px;
+  display: block;
+}
+.price {
+  color: black;
+  background-color: #cef09d;
+  border: 3px solid white;
+}
+.item {
+  color: #febe01;
+}
+.opçãoA {
+  background-color: #105057;
+  color: #febe01;
+  padding: 10px;
+  border-radius: 4px;
+  display: inline-block;
+  text-decoration: none;
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+  background-color: #38184c;
+  text-align: center;
+  border: 5px solid black;
+  padding: 15px;
+  margin: 20px;
+  border-radius: 3px;
+}
+
+h2 {
+  margin: 0px;
+  color: aliceblue;
+}
+p {
+  font-size: 15px;
+  color: grey;
+}
